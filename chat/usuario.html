@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./assets/css/style.css" />
+    <title>Chat</title>
+  </head>
+  <body>
+    <div class="container__principal">
+      <header class="header">
+        <!-- Esta es la información del usuario que se registro -->
+        <div class="panel_usuarioPrincipal">
+          <img src="../imagenes/usuario1.png" alt="img_usuarioPrincipal" class="img_principal"/>
+          <span class="name_principal">Mateo De Los Rios</span>
+        </div>
+        <!-- este es el input para buscar al usuario -->
+        <div class="buscadorPrincipal">
+            <input value="" type="text" name="buscador" placeholder="Buscar o iniciar un nuevo chat" class="input_search"/>
+            <button class="">Or</button>
+        </div>
+        <!-- Esta es la barra de navegación de los chats -->
+        <nav class="barraDeChats"></nav>
+      </header>
+      <main class="main">
+        <!-- esta es la info del usuario actual con el que se esta hablando -->
+        <div class="info_usuario">
+          <div class="img_usuario"></div>
+          <div class="info_name">
+            <span>Papa</span>
+            <span>EN LINEA</span>
+          </div>
+        </div>
+        <!-- Esta es el chat donde se ven los mensajes -->
+        <div class="chat__message">
+          <div class="container__message">
+            <p>hola Mateo, como estas ?</p>
+            <!-- <div class="myMessage">
+              
+            </div>
+            <div class="othersMessage">
+
+            </div> -->
+          </div>
+        </div>
+        <!-- Este es el chat principal -->
+        <div class="principal_chat">
+          <form id="form">
+            <input type="text" placeholder="Escribe un mensaje" class="text_mensaje" value=""
+            />
+            <button>Submit</button>
+          </form>
+        </div>
+      </main>
+
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="./assets/js/main_user.js" type="module"></script>
+  </body>
+</html>

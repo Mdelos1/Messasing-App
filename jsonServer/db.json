@@ -1,0 +1,332 @@
+{
+  "usersChat": [
+    {
+      "id": 1,
+      "name": "Jose Fernandez",
+      "img": "https://i.ibb.co/KjPm7y0/png-clipart-mario-mario.png",
+      "tel": "312 243 2039",
+      "password": "1234",
+      "flag": "Activo",
+      "Frase_descriptiva": "Despierto 24/7",
+      "Hora_ultima-vez": "En este momento"
+    },
+    {
+      "id": 2,
+      "name": "Maricel López",
+      "img": "https://i.ibb.co/KjPm7y0/png-clipart-mario-mario.png",
+      "tel": "312 249 2239",
+      "password": "1234",
+      "flag": "Activo",
+      "Frase_descriptiva": "Moda",
+      "Hora_ultima-vez": "En este momento"
+    },
+    {
+      "id": 3,
+      "name": "Mariana Torres",
+      "img": "https://i.ibb.co/KjPm7y0/png-clipart-mario-mario.png",
+      "tel": "312 249 2079",
+      "password": "1234",
+      "flag": "Desconectado",
+      "Frase_descriptiva": "Tendencias",
+      "Hora_ultima-vez": "Hoy 01:23"
+    },
+    {
+      "id": 4,
+      "name": "Leidy Montoya",
+      "img": "https://i.ibb.co/KjPm7y0/png-clipart-mario-mario.png",
+      "tel": "312 219 2039",
+      "password": "1234",
+      "flag": "Desconectado",
+      "Frase_descriptiva": "Social",
+      "Hora_ultima-vez": "Ayer"
+    },
+    {
+      "id": 5,
+      "name": "Ernesto Quintero",
+      "img": "https://i.ibb.co/KjPm7y0/png-clipart-mario-mario.png",
+      "tel": "362 249 2039",
+      "password": "1234",
+      "flag": "Desconectado",
+      "Frase_descriptiva": "Viajando",
+      "Hora_ultima-vez": "Ayer"
+    },
+    {
+      "id": 6,
+      "name": "Pedro",
+      "img": "https://i.ibb.co/KjPm7y0/png-clipart-mario-mario.png",
+      "tel": "362 249 2039",
+      "password": "1234",
+      "flag": "Desconectado",
+      "Frase_descriptiva": "Viajando",
+      "Hora_ultima-vez": "Ayer"
+    },
+    {
+      "id": 7,
+      "name": "Liliana",
+      "img": "https://i.ibb.co/KjPm7y0/png-clipart-mario-mario.png",
+      "tel": "362 249 2039",
+      "password": "1234",
+      "flag": "Desconectado",
+      "Frase_descriptiva": "Viajando",
+      "Hora_ultima-vez": "Ayer"
+    },
+    {
+      "id": 8,
+      "name": "John",
+      "img": "https://i.ibb.co/KjPm7y0/png-clipart-mario-mario.png",
+      "tel": "362 249 2039",
+      "password": "1234",
+      "flag": "Desconectado",
+      "Frase_descriptiva": "Viajando",
+      "Hora_ultima-vez": "Ayer"
+    },
+    {
+      "id": 9,
+      "name": "Yeferson",
+      "img": "https://i.ibb.co/KjPm7y0/png-clipart-mario-mario.png",
+      "tel": "362 249 2039",
+      "password": "1234",
+      "flag": "Desconectado",
+      "Frase_descriptiva": "Viajando",
+      "Hora_ultima-vez": "Ayer"
+    },
+    {
+      "id": 10,
+      "name": "Fernanda",
+      "img": "https://i.ibb.co/KjPm7y0/png-clipart-mario-mario.png",
+      "tel": "362 249 2039",
+      "password": "1234",
+      "flag": "Desconectado",
+      "Frase_descriptiva": "Viajando",
+      "Hora_ultima-vez": "Ayer"
+    },
+    {
+      "id": 11,
+      "name": "Catalina",
+      "img": "https://i.ibb.co/KjPm7y0/png-clipart-mario-mario.png",
+      "tel": "362 249 2039",
+      "password": "1234",
+      "flag": "Desconectado",
+      "Frase_descriptiva": "Viajando",
+      "Hora_ultima-vez": "Ayer"
+    },
+    {
+      "id": 12,
+      "name": "Ignacio",
+      "img": "https://i.ibb.co/KjPm7y0/png-clipart-mario-mario.png",
+      "tel": "362 249 2039",
+      "password": "1234",
+      "flag": "Desconectado",
+      "Frase_descriptiva": "Viajando",
+      "Hora_ultima-vez": "Ayer"
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "idUser1": 2,
+      "idUser2": 2,
+      "message": [
+        {
+          "senBy": 4,
+          "date": "01/10/2022",
+          "hour": "10:00 am",
+          "message": "Hola jose",
+          "flag": "no visto"
+        },
+        {
+          "senBy": 4,
+          "date": "01/10/2022",
+          "hour": "10:00 am",
+          "message": "Hola jose",
+          "flag": "no visto"
+        },
+        {
+          "senBy": 4,
+          "date": "01/10/2022",
+          "hour": "10:00 am",
+          "message": "Hola jose",
+          "flag": "no visto"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "idUser1": 2,
+      "idUser2": 2,
+      "message": [
+        {
+          "senBy": 4,
+          "date": "01/10/2022",
+          "hour": "10:00 am",
+          "message": "hola",
+          "flag": "no visto"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "idUser1": 3,
+      "idUser2": 2,
+      "message": [
+        {
+          "senBy": 4,
+          "date": "01/10/2022",
+          "hour": "10:00 am",
+          "message": "hola",
+          "flag": "no visto"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "idUser1": 4,
+      "idUser2": 2,
+      "message": [
+        {
+          "senBy": 4,
+          "date": "01/10/2022",
+          "hour": "10:00 am",
+          "message": "hola",
+          "flag": "no visto"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "idUser1": 5,
+      "idUser2": 2,
+      "message": [
+        {
+          "senBy": 4,
+          "date": "01/10/2022",
+          "hour": "10:00 am",
+          "message": "hola",
+          "flag": "no visto"
+        }
+      ]
+    },
+    {
+      "senBy": 2,
+      "date": "06/10/2022",
+      "hour": "14:00 am",
+      "messages": [
+        {
+          "idUser1": 1,
+          "message": [
+            "Hola pedro"
+          ]
+        },
+        {
+          "idUser2": 2,
+          "message": [
+            ""
+          ]
+        }
+      ],
+      "id": 6
+    },
+    {
+      "senBy": 2,
+      "date": "06/10/2022",
+      "hour": "14:00 am",
+      "messages": [
+        {
+          "idUser1": 1,
+          "message": [
+            "Hola pedro"
+          ]
+        },
+        {
+          "idUser2": 2,
+          "message": [
+            ""
+          ]
+        }
+      ],
+      "id": 7
+    },
+    {
+      "id": 8,
+      "idUser1": 8,
+      "idUser2": 2,
+      "message": [
+        {
+          "id": 20,
+          "senBy": 4,
+          "date": "01/10/2022",
+          "hour": "10:00 am",
+          "message": "hola",
+          "flag": "no visto"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "idUser1": 9,
+      "idUser2": 2,
+      "message": [
+        {
+          "id": 20,
+          "senBy": 4,
+          "date": "01/10/2022",
+          "hour": "10:00 am",
+          "message": "hola",
+          "flag": "no visto"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "idUser1": 10,
+      "idUser2": 2,
+      "message": [
+        {
+          "id": 20,
+          "senBy": 4,
+          "date": "01/10/2022",
+          "hour": "10:00 am",
+          "message": "hola",
+          "flag": "no visto"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "idUser1": 11,
+      "idUser2": 2,
+      "message": [
+        {
+          "id": 20,
+          "senBy": 4,
+          "date": "01/10/2022",
+          "hour": "10:00 am",
+          "message": "hola",
+          "flag": "no visto"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "idUser1": 12,
+      "idUser2": 2,
+      "message": [
+        {
+          "id": 20,
+          "senBy": 4,
+          "date": "01/10/2022",
+          "hour": "10:00 am",
+          "message": "hola",
+          "flag": "no visto"
+        }
+      ]
+    }
+  ],
+  "registro": [
+    {
+      "id": 1,
+      "phone": 1234567890,
+      "password": 1234
+    }
+  ]
+}
